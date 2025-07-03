@@ -8,3 +8,4 @@ Task 6 - Creation of vpc and launching a linux ec2 using public subnet
 
 Task 8 - Creation of volume in EC2 instanced and creating snapshot.
 Task 9 - Using codepipeline,build,deploy to host web page
+Task 10 - Docker task -3
